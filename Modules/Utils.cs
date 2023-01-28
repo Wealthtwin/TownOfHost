@@ -604,7 +604,7 @@ namespace TownOfHost
             else
             {
                 if (AmongUsClient.Instance.IsGamePublic)
-                    name = $"<color={Main.ModColor}>TownOfHost v{Main.PluginVersion}</color>\r\n" + name;
+                    name = $"<color={Main.ModColor}>RedsTown</color>\r\n" + name;
                 switch (Options.GetSuffixMode())
                 {
                     case SuffixModes.None:
